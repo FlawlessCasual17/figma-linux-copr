@@ -3,7 +3,7 @@
 
 Name:           figma-linux
 Version:        
-0.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.5Release:        1%{?dist}
+0.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.50.11.5Release:        1%{?dist}
 Summary:        Figma-Linux is an unofficial Electron-based Figma desktop app for Linux.
 
 License:        GPL-2.0
